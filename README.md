@@ -15,4 +15,4 @@ dos hedefsite.com
 
 
 Geliştirici: yeraz98 [cite: 2025-12-19]
-İletişim: serxanxudabendeyev13@gmail.com [cite: 2025-12-19]
+
