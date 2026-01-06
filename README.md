@@ -14,5 +14,5 @@ pkg install python -y && curl -LO [https://raw.githubusercontent.com/yeraz98/azr
 dos hedefsite.com
 
 
-Geliştirici: yeraz98 [cite: 2025-12-19]
+Geliştirici: yeraz98 
 
